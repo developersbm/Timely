@@ -1,4 +1,4 @@
-# Timely
+# Timely 
 
 Timely is a comprehensive platform designed to streamline calendar management, group interactions, and saving plans. Built with modern frontend and backend technologies, the project lays a robust foundation with a focus on responsiveness, security, and scalability. It delivers a functional experience for managing user calendars, groups, and financial plans, integrating essential third-party APIs for added functionality.
 
